@@ -11,8 +11,8 @@ conda activate plotly-env
 
 This environment can alternatively be created manually in the Navigator GUI with Anaconda, if you are not comfortable working from the command line. 
 
-If you cannot install Python or Plotly on your computer (or you prefer not to do so), you can use the [version on Google colab linked here](https://colab.research.google.com/drive/1JiEgyzJWC547CmamXJWj-GGCHqRVZPC7?usp=sharing).
+If you cannot install Python or Plotly on your computer (or you prefer not to do so), you can use the [version on Google colab linked here](https://colab.research.google.com/drive/1g8nYzA3OPRGwMosPOmGVEmRxmc2Rf5ZK?usp=sharing).
 
-A live version of the final interactive, containing data up to Nov. 1, 2023, is available [here](https://ageller.github.io/IntroToPlotly/plotly_graph.html).
+A live version of the final interactive (produced using code in the `archive/` directory and containing data up to Nov. 1, 2023) is available [here](https://ageller.github.io/IntroToPlotly/plotly_graph.html).
 
 
